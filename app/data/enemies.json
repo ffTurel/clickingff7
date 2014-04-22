@@ -237,13 +237,13 @@
       "resists": ["water"],
       "boss": true
     }
-  }
+  },
   "8": {
     "1": {
       "level": 27,
       "name": "Castanet",
       "image": "kalm-fang.png",
-	  "weakness": ["fire"],
+	  "weakness": ["fire"]
     },
     "2": {
       "level": 28,
@@ -255,12 +255,12 @@
       "level": 28,
       "name": "Crawler",
       "image": "elfadunk.png",
-	  "weakness": ["earth"],
+	  "weakness": ["earth"]
     },
     "4": {
       "level": 30,
       "name": "Madouge",
-      "image": "levrikon.png",
-    },
-  },
+      "image": "levrikon.png"
+    }
+  }
 }
