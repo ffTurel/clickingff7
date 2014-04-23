@@ -261,6 +261,14 @@
       "level": 30,
       "name": "Madouge",
       "image": "levrikon.png"
+    },
+	"5": {
+      "level": 28,
+      "name": "Midgar Zolom",
+      "image": "midgar-zolom.png",
+      "weakness": ["fire", "bolt"],
+      "resists": ["water"],
+      "boss": true
     }
   }
 }
